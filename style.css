@@ -1,0 +1,55 @@
+body {
+  font-family: "Outfit", serif;
+  font-weight: 500;
+  margin: auto;
+  padding: 0;
+
+}
+
+.h1 {
+  font-family: 'Young Serif', Courier, monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.preparation {
+  background-color: hsl(330, 100%, 98%);
+}
+
+.h3 {
+  font-weight: 700;
+  color: hsl(332, 51%, 32%);
+}
+
+strong, li, p {
+  color: hsl(30, 10%, 34%);
+}
+
+li {
+  margin: 1rem;
+  padding-left: 1.25rem;
+}
+
+li::marker {
+  color: hsl(14, 45%, 36%);
+}
+
+.preparation li::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+h2 {
+  font-family: 'Young Serif', serif;
+  color: hsl(14, 45%, 36%);
+}
+
+.table td:first-child{
+  color: hsl(30, 10%, 34%);
+  text-indent: 1.25rem;
+}
+
+.table td:last-child {
+  font-weight: bold;
+  color: hsl(14, 45%, 36%);
+}
+
