@@ -27,8 +27,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/recipe-page-website-using-bootstrap-framework-O2aLeRkHMY)
-- Live Site URL: [Live Site URL]([https://your-live-site-url.com](https://simatg.github.io/recipe-page/)
+- [Solution URL](https://www.frontendmentor.io/solutions/recipe-page-website-using-bootstrap-framework-O2aLeRkHMY)
+- [Live Site URL](https://simatg.github.io/recipe-page/)
 
 ## My process
 
