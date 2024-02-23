@@ -22,18 +22,17 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![desktop-design](./design/desktop-design.png)
-![mobile-design](./design/mobile-design.png)
+- Dekktop-preview ![desktop-design](./design/desktop-design.png)
+- Mobile-preview ![mobile-design](./design/mobile-design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/recipe-page-website-using-bootstrap-framework-O2aLeRkHMY))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://simatg.github.io/recipe-page/))
 
 ## My process
 
 ### Built with
-
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
